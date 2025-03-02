@@ -5,10 +5,14 @@ DOMAIN-SUFFIX,nginxproxymanager.com
 DOMAIN,ip.zxinc.org
 DOMAIN-SUFFIX,netcup.eu
 DOMAIN-SUFFIX,hetzner.com
-DOMAIN-SUFFIX,customercontrolpanel.de
 DOMAIN-SUFFIX,api.xiaoheihe.cn
 
 ## Private Tracker ##
+
+DOMAIN-SUFFIX,sportscult.org
+DOMAIN-SUFFIX,sunnypt.top
+DOMAIN-SUFFIX,ubits.club
+DOMAIN-SUFFIX,qingwapt.com
 DOMAIN,on.springsunday.net
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN,daydream.dmhy.best
@@ -24,13 +28,14 @@ DOMAIN,tracker.torrentleech.me
 DOMAIN-SUFFIX,torrentleech.org
 DOMAIN-SUFFIX,torrentleech.me
 DOMAIN,tracker.pornbay.wtf
-#DOMAIN-SUFFIX,pornbay.org
+# DOMAIN-SUFFIX,pornbay.org
 DOMAIN-SUFFIX,pt.sjtu.edu.cn
 DOMAIN,tracker-public.tjupt.org
 # DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,ultrahd.net
 DOMAIN-SUFFIX,uhdbits.org
 DOMAIN-SUFFIX,tv-vault.me
+DOMAIN,tracker.open.cd
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,hawke.uno
@@ -75,9 +80,9 @@ DOMAIN-SUFFIX,landof.tv
 DOMAIN-SUFFIX,broadcasthe.net
 DOMAIN-SUFFIX,brokenstones.is
 DOMAIN-SUFFIX,cgpeers.to
-DOMAIN-SUFFIX,chdbits.co
+DOMAIN,tracker.ptchdbits.co
+# DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,ptchdbits.co
-DOMAIN-SUFFIX,chdbits.xyz
 DOMAIN-SUFFIX,cinemageddon.net
 DOMAIN-SUFFIX,cinemaz.to
 DOMAIN-SUFFIX,dicmusic.com
