@@ -1,2 +1,2 @@
-# clash-prepend-rules
-clash-prepend-rules
+# clash-rules
+clash-rules
