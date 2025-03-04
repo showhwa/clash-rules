@@ -1,11 +1,4 @@
-# Unbreak 白名单 不应该被广告链接的网站
-
-# Custom rules
-DOMAIN-SUFFIX,nginxproxymanager.com
-DOMAIN,ip.zxinc.org
-DOMAIN-SUFFIX,netcup.eu
-DOMAIN-SUFFIX,hetzner.com
-DOMAIN-SUFFIX,api.xiaoheihe.cn
+# Unbreak 白名单 不应该走代理的网站
 
 ## Private Tracker ##
 DOMAIN-SUFFIX,sportscult.org
