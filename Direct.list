@@ -3,18 +3,18 @@
 ## Private Tracker ##
 DOMAIN-SUFFIX,sportscult.org
 DOMAIN-SUFFIX,sunnypt.top
-DOMAIN-SUFFIX,ubits.club
 DOMAIN-SUFFIX,qingwapt.com
 DOMAIN,on.springsunday.net
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN,daydream.dmhy.best
 # DOMAIN,u2.dmhy.org
 DOMAIN,tracker.leaves.red
-# DOMAIN-SUFFIX,leaves.red
+DOMAIN-SUFFIX,leaves.red
 # DOMAIN-SUFFIX,lemonhd.club
+DOMAIN-SUFFIX,lemonhd.org
 # DOMAIN-SUFFIX,star-space.net
 DOMAIN,tracker.ianon.app
-# DOMAIN-SUFFIX,ianon.app
+DOMAIN-SUFFIX,ianon.app
 DOMAIN,tracker.torrentleech.org
 DOMAIN,tracker.torrentleech.me
 DOMAIN-SUFFIX,torrentleech.org
@@ -23,6 +23,7 @@ DOMAIN,tracker.pornbay.wtf
 # DOMAIN-SUFFIX,pornbay.org
 DOMAIN-SUFFIX,pt.sjtu.edu.cn
 DOMAIN,tracker-public.tjupt.org
+DOMAIN-SUFFIX,tju.pt
 # DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,ultrahd.net
 DOMAIN-SUFFIX,uhdbits.org
@@ -59,7 +60,7 @@ DOMAIN-SUFFIX,keepfrds.com
 DOMAIN,tracker.morethantv.me
 DOMAIN-SUFFIX,morethantv.me
 DOMAIN,tracker.pterclub.com
-# DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,pterclub.com
 DOMAIN-SUFFIX,alpharatio.cc
 DOMAIN-SUFFIX,animebytes.tv
 DOMAIN-SUFFIX,anthelion.me
@@ -73,8 +74,11 @@ DOMAIN-SUFFIX,broadcasthe.net
 DOMAIN-SUFFIX,brokenstones.is
 DOMAIN-SUFFIX,cgpeers.to
 DOMAIN,tracker.ptchdbits.co
+DOMAIN,chdbits.xyz
+DOMAIN,tracker.rainbowisland.co
 # DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,chddiy.xyz
 DOMAIN-SUFFIX,cinemageddon.net
 DOMAIN-SUFFIX,cinemaz.to
 DOMAIN-SUFFIX,dicmusic.com
@@ -132,17 +136,17 @@ DOMAIN-SUFFIX,gfxpeers.net
 DOMAIN-SUFFIX,hd-torrents.org
 DOMAIN-SUFFIX,hdarea.club
 DOMAIN-SUFFIX,hdcity.city
-DOMAIN-SUFFIX,www.hddolby.com
+DOMAIN-SUFFIX,hddolby.com
 DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,hdmayi.com
 DOMAIN-SUFFIX,hdpt.xyz
 DOMAIN-SUFFIX,hdroute.org
 DOMAIN-SUFFIX,hdvideo.one
 DOMAIN-SUFFIX,hhanclub.top
-DOMAIN-SUFFIX,www.htpt.cc
+DOMAIN-SUFFIX,htpt.cc
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
 DOMAIN-SUFFIX,ihdbits.me
-DOMAIN-SUFFIX,www.joyhd.net
+DOMAIN-SUFFIX,joyhd.net
 DOMAIN-SUFFIX,jptv.club
 DOMAIN-SUFFIX,jptvts.us
 DOMAIN-SUFFIX,kamept.com
@@ -154,21 +158,21 @@ DOMAIN-SUFFIX,lztr.me
 DOMAIN-SUFFIX,monikadesign.uk
 DOMAIN-SUFFIX,ncore.pro
 DOMAIN-SUFFIX,nebulance.io
-DOMAIN-SUFFIX,www.nicept.net
+DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,npupt.com
 DOMAIN-SUFFIX,pandapt.net
 DOMAIN-SUFFIX,piggo.me
-DOMAIN-SUFFIX,pt.0ff.cc
-DOMAIN-SUFFIX,pt.2xfree.org
+DOMAIN-SUFFIX,0ff.cc
+DOMAIN-SUFFIX,2xfree.org
 DOMAIN-SUFFIX,btschool.club
-DOMAIN-SUFFIX,pt.dhtclub.com
-DOMAIN-SUFFIX,pt.hd4fans.org
-DOMAIN-SUFFIX,pt.hdbd.us
-DOMAIN-SUFFIX,pt.hdpost.top
-DOMAIN-SUFFIX,pt.hdupt.com
-DOMAIN-SUFFIX,pt.itzmx.com
-DOMAIN-SUFFIX,pt.xauat6.edu.cn
-DOMAIN-SUFFIX,pt.zhixing.bjtu.edu.cn
+DOMAIN-SUFFIX,dhtclub.com
+DOMAIN-SUFFIX,hd4fans.org
+DOMAIN-SUFFIX,hdbd.us
+DOMAIN-SUFFIX,hdpost.top
+DOMAIN-SUFFIX,hdupt.com
+DOMAIN-SUFFIX,itzmx.com
+DOMAIN-SUFFIX,xauat6.edu.cn
+DOMAIN-SUFFIX,zhixing.bjtu.edu.cn
 DOMAIN-SUFFIX,ptcafe.club
 DOMAIN-SUFFIX,ptchina.org
 DOMAIN-SUFFIX,pussytorrents.org
@@ -177,7 +181,7 @@ DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,sdbits.org
 DOMAIN-SUFFIX,shadowflow.org
 DOMAIN-SUFFIX,shadowthein.net
-DOMAIN-SUFFIX,share.ilolicon.com
+DOMAIN-SUFFIX,ilolicon.com
 DOMAIN-SUFFIX,speedapp.io
 DOMAIN-SUFFIX,sugoimusic.me
 DOMAIN-SUFFIX,teamhd.org
@@ -187,16 +191,16 @@ DOMAIN-SUFFIX,ubits.club
 DOMAIN-SUFFIX,wintersakura.net
 DOMAIN-SUFFIX,world-in-hd.net
 DOMAIN-SUFFIX,wukongwendao.top
-DOMAIN-SUFFIX,www.cinematik.net
-DOMAIN-SUFFIX,www.filept.com
-DOMAIN-SUFFIX,www.gamegamept.com
-DOMAIN-SUFFIX,www.gaytor.rent
-DOMAIN-SUFFIX,www.icc2022.com
-DOMAIN-SUFFIX,www.okpt.net
-DOMAIN-SUFFIX,www.oshen.win
-DOMAIN-SUFFIX,www.ptlsp.com
-DOMAIN-SUFFIX,www.torrentday.com
-DOMAIN-SUFFIX,www.torrentseeds.org
+DOMAIN-SUFFIX,cinematik.net
+DOMAIN-SUFFIX,filept.com
+DOMAIN-SUFFIX,gamegamept.com
+DOMAIN-SUFFIX,gaytor.rent
+DOMAIN-SUFFIX,icc2022.com
+DOMAIN-SUFFIX,okpt.net
+DOMAIN-SUFFIX,oshen.win
+DOMAIN-SUFFIX,ptlsp.com
+DOMAIN-SUFFIX,torrentday.com
+DOMAIN-SUFFIX,torrentseeds.org
 DOMAIN-SUFFIX,xingtan.one
 DOMAIN-SUFFIX,zhuque.in
 DOMAIN-SUFFIX,zmpt.cc
