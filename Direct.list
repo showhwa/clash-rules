@@ -1,4 +1,4 @@
-# Unbreak 白名单 不应该走代理的网站
+# 白名单 不应该走代理的网站
 
 ## Private Tracker ##
 DOMAIN-SUFFIX,sportscult.org
